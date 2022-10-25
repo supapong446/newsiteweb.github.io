@@ -1,0 +1,143 @@
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.backg {
+  height: 100%;
+  background-image: url(nerv.jpg);
+  background-color: black;
+  padding-top: 100px;
+}
+
+div.Boxtext {
+  max-width: 1200px;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid yellow;
+  text-align: center;
+  padding: 3px;
+}
+
+div.Boxtext p {
+  font-family: 'Libre Bodoni', serif;
+  color: white;
+  font-size: 35px;
+}
+
+
+.imageSkills img {
+width: 15%;
+height: auto;
+display: block;
+margin: 0 auto;
+font-family: 'Libre Bodoni', serif;
+
+}
+
+.imageSkills p {
+  font-family: 'Libre Bodoni', serif;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.cloud1 {
+  position: absolute;
+  bottom: 800px;
+  right: 500px;
+  opacity: 70;
+}
+
+.cloud2 {
+  position: absolute;
+  bottom: 500px;
+  left: 500px;
+  opacity: 70;
+}
+
+h1 {
+color : white;
+font-family: 'Libre Bodoni', serif;
+text-align: center;
+font-size: 70px;
+
+
+}
+
+h3 {
+  color : white;
+  font-family: 'Libre Bodoni', serif;
+  text-align: center;
+  font-size:40px!important;
+
+}
+
+
+.Emergencytop {
+  position: absolute;
+  width: 22%;
+  bottom : 1%;
+  left: 9%;
+  opacity: 70%;
+}
+
+.Emergencybottom {
+  width: 20%;
+  position: absolute;
+  top: 10%;
+  left: 20px;
+}
+.asukagif1 {
+  width: 20%;
+  height: auto;
+  position:fixed;
+    bottom:0;
+    right:0;
+    z-index:1;
+}
+
+.navbar {
+  font-family: 'Noto Sans Thai', sans-serif !important;
+}
+
+span {
+      text-decoration: underline;
+      text-decoration-color: white;
+  }
+
+.profile {
+  width: 30%;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.BreakLines {
+  max-width: 1400px;
+  display : flex;
+  border: 5px outset #DC5F00;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.gmail {
+  width: 30%;
+  height: auto;
+  position: relative;
+  padding: 10px
+}
+.call {
+  width: 30%;
+  height: auto;
+  position: relative;
+}
+
+th {
+  color : white;
+  font-family: 'Libre Bodoni', serif;
+  font-size: 40px;
+}
